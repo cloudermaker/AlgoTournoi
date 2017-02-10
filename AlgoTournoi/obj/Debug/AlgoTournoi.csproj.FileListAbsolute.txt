@@ -1,0 +1,5 @@
+C:\Users\a54220\AppData\Local\Temporary Projects\AlgoTournoi\bin\Debug\AlgoTournoi.exe
+C:\Users\a54220\AppData\Local\Temporary Projects\AlgoTournoi\bin\Debug\AlgoTournoi.pdb
+C:\Users\a54220\AppData\Local\Temporary Projects\AlgoTournoi\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\a54220\AppData\Local\Temporary Projects\AlgoTournoi\obj\Debug\AlgoTournoi.exe
+C:\Users\a54220\AppData\Local\Temporary Projects\AlgoTournoi\obj\Debug\AlgoTournoi.pdb
